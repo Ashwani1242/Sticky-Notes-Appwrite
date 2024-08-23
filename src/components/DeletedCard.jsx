@@ -28,7 +28,7 @@ function DeletedCard({ note }) {
           backgroundColor: colors.colorHeader,
         }} >
         <DeleteButton color={colors.colorBody} note={note} isNotes={ false } message={'Delete Permanently'}/>
-        <DeleteButton color={colors.colorBody} note={note} isNotes={ false } message={'Delete Permanently'}/>
+        {/* <DeleteButton color={colors.colorBody} note={note} isNotes={ false } message={'Delete Permanently'}/> */}
       </div>
       <div className='p-4'>
         <textarea
