@@ -1,0 +1,81 @@
+[
+    {
+        "id": "color-black",
+        "colorHeader": "#FFFFFF",
+        "colorBody": "#000000",
+        "colorText": "#FFFFFF"
+    },
+    {
+        "id": "color-yellow",
+        "colorHeader": "#FFCA28",
+        "colorBody": "#FFE082",
+        "colorText": "#18181A"
+    },
+    {
+        "id": "color-purple",
+        "colorHeader": "#F06292",
+        "colorBody": "#FF80AB",
+        "colorText": "#18181A"
+    },
+    {
+        "id": "color-indigo",
+        "colorHeader": "#9575CD",
+        "colorBody": "#B388FF",
+        "colorText": "#18181A"
+    },
+    {
+        "id": "color-green",
+        "colorHeader": "#4CAF50",
+        "colorBody": "#81C784",
+        "colorText": "#18181A"
+    },
+    {
+        "id": "color-blue",
+        "colorHeader": "#00BCD4",
+        "colorBody": "#80DEEA",
+        "colorText": "#18181A"
+    },
+    {
+        "id": "color-red",
+        "colorHeader": "#EF5350",
+        "colorBody": "#FF8A80",
+        "colorText": "#18181A"
+    },
+    {
+        "id": "color-amber-yellow",
+        "colorHeader": "#F3A950",
+        "colorBody": "#161B21",
+        "colorText": "#F3A950"
+    },
+    {
+        "id": "color-crimson-red",
+        "colorHeader": "#FFDFB9",
+        "colorBody": "#CC313D",
+        "colorText": "#FFDFB9"
+    },
+    {
+        "id": "color-green-sheen",
+        "colorHeader": "#FCF6F5",
+        "colorBody": "#2BAE66",
+        "colorText": "#FCF6F5"
+    },
+    {
+        "id": "color-fiery-rose",
+        "colorHeader": "#FCEDDA",
+        "colorBody": "#F96167",
+        "colorText": "#FCEDDA"
+    },
+    {
+        "id": "color-royal-blue",
+        "colorHeader": "#FFD662",
+        "colorBody": "#00539C",
+        "colorText": "#FFD662"
+    },
+    {
+        "id": "color-purple-plum",
+        "colorHeader": "#FFDFDE",
+        "colorBody": "#5F4B8B",
+        "colorText": "#E6E6FA"
+    }
+]
+
